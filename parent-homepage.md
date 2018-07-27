@@ -3,6 +3,7 @@ The home page for parent users.
 
 ## Login Information
 - Username: rohit_test50@schoolstatus.com
+- Password: javascriptsux
 
 ## Procedure
 1. Log in to rohit_test50@schoolstaus.com
