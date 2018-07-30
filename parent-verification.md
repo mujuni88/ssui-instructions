@@ -1,10 +1,15 @@
 # Testing Parent Verification
 
+Step by step instructions on how to verify a parent user in our app.
+
+## Testing Instructions
+
 1. Log in as a superuser or district admin (**anytown@bcg.io is fine**), and click the **Parent Access Management** module link on the left.
-![
-](https://lh3.googleusercontent.com/6GeyF80T_US54b46kn_KD3HWp5a1Alh3hxkxSKbnizuJB84x248oz5bWVVrrRrnvmWnXon-DD8g "Parent Access Management")
+
+![Parent Access Panament](https://lh3.googleusercontent.com/6GeyF80T_US54b46kn_KD3HWp5a1Alh3hxkxSKbnizuJB84x248oz5bWVVrrRrnvmWnXon-DD8g)
 
 2. **Find the contact** that has **your email** and **your phone number** and add yourself as a parent user.
+
 ![enter image description here](https://lh3.googleusercontent.com/GhNcLdVi_17M5m-Wt70g1i_4-Vl60rYD9SH6KTz7ZRf3gijtOrq7f_BALgggFOjlY6u1VCdno0s)
 
 
@@ -15,13 +20,12 @@
 
 4. Upon arriving at the verification page, you should be greeted with **two fields** for entering your **email verification code** and your **phone verification code**.  Paste the email verification code into the appropriate field and grab your phone verification code from your text messages, and do the same with it.
 
-![
-](https://lh3.googleusercontent.com/dOHbisHTNP4mizxvnhxyVnThlCXrSv_dNESqzcMITYBVnQWjuF3ZFD4KE_rFnntmqLXlo9A1HO8 "Verification Home")
+![Verification Home](https://lh3.googleusercontent.com/dOHbisHTNP4mizxvnhxyVnThlCXrSv_dNESqzcMITYBVnQWjuF3ZFD4KE_rFnntmqLXlo9A1HO8)
 
 5. You should arrive on a screen for creating your account password. Go ahead and fill this out (one field for **password creation** and one for **password confirmation**.)
 
-![enter image description here](https://lh3.googleusercontent.com/68Khft5uLlP4sEMCNw_t1NxCMHqeaRAPt7pb4c4mbul-fwz0t9gGNwTtIyuDwge5DxxYY3Tp6tw)
+![Create a password](https://lh3.googleusercontent.com/68Khft5uLlP4sEMCNw_t1NxCMHqeaRAPt7pb4c4mbul-fwz0t9gGNwTtIyuDwge5DxxYY3Tp6tw)
 
 6. Next, you will be **redirected** to the main **login screen** and should be able to use your new parent account to log in!
-![enter image description here](https://lh3.googleusercontent.com/gYsGYJ7GFJTretWHMo6IG2sNJsOtPW4nkCO_yQUzev01WyqHlDI0PEes9N13gsH7H8fYzqMadvw)
 
+![Final step](https://lh3.googleusercontent.com/gYsGYJ7GFJTretWHMo6IG2sNJsOtPW4nkCO_yQUzev01WyqHlDI0PEes9N13gsH7H8fYzqMadvw)
