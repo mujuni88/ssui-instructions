@@ -1,4 +1,4 @@
-﻿# SchoolStatus TestFlight
+# SchoolStatus TestFlight
 
 **Schoolstatus Mobile** has seen some redesign lately. Feedback on design is *always* wanted. Here's some of what you can expect to see
 
