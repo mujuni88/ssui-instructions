@@ -6,3 +6,4 @@
 * [Parent Verification](parent-verification.md)
 * [Parent Validation](parent-validation.md)
 * [Parent Homepage](parent-homepage.md)
+* [Mobile Testflight](mobile-testflight.md)
