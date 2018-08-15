@@ -26,7 +26,7 @@ For this reason we restrict the ability to send large broadcasts. Our average di
 2. The Broadcast sidebar should open.
 ![Local Image](/images/broadcast/sidebar-should-open.png)
 3. You may or may not see items listed here in the outbox, we will worry about that later
-4. Click on the  “+” action button:
+4. Click on the New Broadcast button:
 ![Local Image](/images/broadcast/click-the-fab.png)
 5. A new broadcast window should pop up. You’ll notice the send button is disabled, this is because you need recipients and a message before a message can be sent.
 ![Local Image](/images/broadcast/create-broadcast-modal-opens.png)
